@@ -381,7 +381,6 @@ you should place your code here."
   (define-key evil-hybrid-state-map (kbd "C-h") 'evil-delete-backward-char)
   (define-key evil-normal-state-map (kbd ";'") 'evilnc-comment-or-uncomment-lines)
   (define-key evil-hybrid-state-map (kbd "C-l") 'evil-delete-whole-line)
-  (define-key evil-hybrid-state-map (kbd "C-w") 'evil-delete-)
   (define-key evil-hybrid-state-map (kbd "C-;") 'evilnc-comment-or-uncomment-lines)
   (define-key evil-hybrid-state-map (kbd "C-,") 'spacemacs/alternate-buffer)
   (define-key evil-hybrid-state-map (kbd "H-l") 'evilnc-copy-to-line)
