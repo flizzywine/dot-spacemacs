@@ -387,7 +387,7 @@ you should place your code here."
   (define-key evil-hybrid-state-map (kbd "C-S-o") 'evil-open-above)
   (define-key evil-hybrid-state-map (kbd "H-e") 'eval-last-sexp)
 
-  ;; 我有一帘幽梦，不知与谁能共。多少秘密在其中，欲诉无人能懂。
+  ;; 梦同谁诉离愁恨，千古情人独我痴。
   ;; ends here
   )
 
